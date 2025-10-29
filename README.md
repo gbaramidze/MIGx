@@ -41,5 +41,6 @@ A full-stack application for managing clinical trial participants with real-time
 
 1. **Clone and setup:**
 ```bash
-git clone <repository>
-cd clinical-trial-dashboard
+git clone https://github.com/gbaramidze/MIGx
+docker-compose up --build
+```
